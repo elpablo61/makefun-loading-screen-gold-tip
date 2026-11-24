@@ -1,0 +1,1 @@
+{"description":"One sharp, funny loading-screen tip for stressed developers and AI coding agents (200 characters or fewer).","license":"MIT","main":"main.ts","name":"makefun-loading-screen-gold-tip","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
